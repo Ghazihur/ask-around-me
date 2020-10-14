@@ -1,5 +1,5 @@
 config:
-  target: 'https://<<YOUR_ENDPOINT>>.execute-api.us-east-1.amazonaws.com'
+  target: 'https://www.google.com'
   phases:
     - duration: 300
       arrivalRate: 10
